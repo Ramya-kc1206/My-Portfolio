@@ -14,6 +14,12 @@ You can find my resume in this repository. Feel free to download and review it!
 ## 📫 Let's Connect
 - LinkedIn:  [www.linkedin.com/in/ramyakc12 ]  (replace with your real link)
 - Email: kcramya12@gmail.com
+## 📜 Certifications
+
+- ✅ Data Science Program – FITA Academy (2025)
+- ✅ Power BI Project – Adventure Works (2025)
+- ✅ GST Internship Certificate – [View PDF](./GST_Certificate.pdf)
+- ✅ TCS iON Soft Skills Certificate – [View PDF](./TCS_Communication_Certificate.pdf)
 
 ---
 
