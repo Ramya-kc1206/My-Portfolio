@@ -17,9 +17,10 @@ You can find my resume in this repository. Feel free to download and review it!
 ## 📜 Certifications
 
 - ✅ Data Science Program – FITA Academy (2025)
-- ✅ Power BI Project – Adventure Works (2025)
-- ✅ GST Internship Certificate – [View PDF](./GST_Certificate.pdf)
-- ✅ TCS iON Soft Skills Certificate – [View PDF](./TCS_Communication_Certificate.pdf)
+- Link - https://drive.google.com/file/d/1KkpUY72jSiuojKfcdKsmrLlFz3_dAVUi/view?usp=drive_link)
+- ✅ GST Internship Certificate – [View PDF](https://drive.google.com/file/d/1B8YdtWPE0IVmVo1hSqPlmya-Pxe-s-Vz/view?usp=drive_link)
+- ✅ TCS iON Soft Skills Certificate – [View PDF](https://drive.google.com/file/d/1E-BxcEarph9ZQ9RW0MTHANmWpcD9pIc6/view?usp=drive_link)
+- ✅ Data Science and Analytics Online Certificate - [View PDF[ (https://drive.google.com/file/d/1dNlb-5y2fEzKPHPySM6SZYKu-1cpwfCm/view?usp=drive_link
 
 ---
 
