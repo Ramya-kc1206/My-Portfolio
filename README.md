@@ -12,7 +12,7 @@ I'm passionate about turning data into insights using tools like *Excel, **Power
 You can find my resume in this repository. Feel free to download and review it!
 
 ## 📫 Let's Connect
-- LinkedIn:  [www.linkedin.com/in/ramyakc12 ]  (replace with your real link)
+- LinkedIn:  [www.linkedin.com/in/ramyakc12 ]
 - Email: kcramya12@gmail.com
 ## 📜 Certifications
 
